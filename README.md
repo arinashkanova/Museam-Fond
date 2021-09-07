@@ -7,7 +7,7 @@ This project based on [All_Cups hackathon](https://cups.mail.ru/ru/tasks/1087).
 
 **Practice Skills:**
 -  Classification foto data;
--  Classification text data;
+-  Classification text data.
 
 # Goal
 It was necessary to determine the category of the object of the museum fund by the description or image.   
@@ -25,7 +25,7 @@ F1-score
 
 ## [Baseline](/NLP_MUSEAM.ipynb)
 As basemodel was using [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).  
-Score - 0.6300774414141161.
+Score - 0.6300774414141161
 ## [Model](/NLP_MUSEAM.ipynb)
 As main model was using [XGBClassifier](https://xgboost.readthedocs.io/en/latest/python/python_api.html).
 # Final Score
