@@ -10,7 +10,7 @@ This project based on [All_Cups hackathon](https://cups.mail.ru/ru/tasks/1087).
 -  Classification text data;
 
 # Goal
-It was necessary to determine the category of the object of the museum fund by the description or image.  
+It was necessary to determine the category of the object of the museum fund by the description or image.   
 **I worked only with description.**
 
 # Data
